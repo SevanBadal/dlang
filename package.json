@@ -11,6 +11,10 @@
   "bin": {
     "dlang": "./index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SevanBadal/dlang"
+  },
   "keywords": [],
   "author": "Sevan Badal Golnazarian",
   "license": "ISC",
