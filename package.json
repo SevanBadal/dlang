@@ -1,6 +1,6 @@
 {
   "name": "dlang",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Command line app for rolling dice!",
   "main": "./index.js",
   "scripts": {
