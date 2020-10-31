@@ -1,4 +1,6 @@
 ## DLang Dice Language
+[![NPM](https://img.shields.io/npm/v/dlang)](https://www.npmjs.com/package/dlang)
+[![Licence](https://img.shields.io/github/license/sevanbadal/dlang)](LICENSE)
 
 DLang is a command line tool for tabletop gamers.  Using an easy to use syntax, players can keep track of dice rolls with or without modifiers.
 
